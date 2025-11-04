@@ -54,8 +54,8 @@ The **Random Forest** model, optimized via **Grid Search** to maximize the **Rec
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Dessa93/IF_Dataset]
-    cd 
+    git clone [https://github.com/Dessa93/Fasting-Feature-Engineering-An-Approach-to-Diabetes-Risk]
+    cd Fasting-Feature-Engineering-An-Approach-to-Diabetes-Risk
     ```
 2.  **Setup Environment:**
     (Ensure you have Python 3.x and optionally create a virtual environment, e.g., `venv_analise`)
